@@ -1,0 +1,13 @@
+# Python cache and bytecode
+__pycache__ /
+*.py[cod]
+# Virtual environments
+.venv/
+venv/
+# Logs and local environment variables
+*.log
+.env
+# Local build artifacts
+build/
+dist/
+practiceIgnore.txt
